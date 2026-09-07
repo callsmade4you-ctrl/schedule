@@ -1,0 +1,1 @@
+{"name":"callsmade4u-schedule","private":true,"version":"1.0.0","type":"module","scripts":{"build":"tsc -b && vite build","dev":"vite","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","autoprefixer":"latest","lucide-react":"latest","postcss":"latest","react":"latest","react-dom":"latest","tailwindcss":"^3.4.17","typescript":"latest","vite":"latest"}}
